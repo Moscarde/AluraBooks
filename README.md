@@ -1,8 +1,10 @@
 # AluraBooks
-![full](https://i.imgur.com/VH3ywnA.jpg)
+[Sem Título-1](https://user-images.githubusercontent.com/78855746/177912582-8b657b48-4d00-43d9-b92d-ac1fa5a241fc.jpg)
+
 > Status do Projeto: :heavy_check_mark: (07/22)
 
-## :bookmark_tabs: Descrição do projeto
+## :bookmark_tabs: Descrição do projeto!
+
 
 <p> Projeto desenvolvido durante o curso "HTML e CSS: responsividade com mobile-first" na plataforma Alura</p>
 
@@ -27,7 +29,6 @@
 
 - `Mínimo de 1024px`
 
- ![AluraBooks-Tablet]()
  <img src="https://user-images.githubusercontent.com/78855746/177910802-ca28bf1b-c57c-4797-b244-54354f8ea73a.gif" alt="mobile" height=400/>
 
 

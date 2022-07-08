@@ -1,5 +1,10 @@
+<h1 align="center">
+  <p align="center">AluraBooks</p>
+  <a href="https://alura-books-opal.vercel.app"><img src="https://i.imgur.com/toybNvX.jpg" alt="mobile" width=800/></a>
+</h1>
+
 # AluraBooks
-<img src="https://i.imgur.com/toybNvX.jpg" alt="mobile" width=800/>
+
 
 > Status do Projeto: :heavy_check_mark: (07/22)
 
@@ -10,7 +15,7 @@
 
 ## :dash: Deploy da Aplicação 
 
-<a href="alura-books-opal.vercel.app" target="_blank">Link para visualizar no navegador</a></p>
+<a href="https://alura-books-opal.vercel.app" target="_blank">Link para visualizar no navegador</a></p>
 
 ## :blue_book: Temas trabalhados no estudo
 

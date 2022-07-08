@@ -1,5 +1,5 @@
 # AluraBooks
-![header](https://i.imgur.com/toybNvX.jpg)
+<img src="https://i.imgur.com/toybNvX.jpg" alt="mobile" width=800/>
 
 > Status do Projeto: :heavy_check_mark: (07/22)
 

@@ -1,5 +1,5 @@
 # AluraBooks
-[Sem Título-1](https://user-images.githubusercontent.com/78855746/177912582-8b657b48-4d00-43d9-b92d-ac1fa5a241fc.jpg)
+![header](https://i.imgur.com/toybNvX.jpg)
 
 > Status do Projeto: :heavy_check_mark: (07/22)
 
@@ -10,10 +10,9 @@
 
 ## :dash: Deploy da Aplicação 
 
-<a href="https://gamus-pet-shop.vercel.app/" target="_blank">Link para visualizar no navegador</a></p>
+<a href="alura-books-opal.vercel.app" target="_blank">Link para visualizar no navegador</a></p>
 
 ## :blue_book: Temas trabalhados no estudo
-
 
 - ``Construção do site com apenas HTML e CSS``
 - ``Interpretação de um protótipo de site criado no Figma``

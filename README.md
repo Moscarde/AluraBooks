@@ -1,7 +1,6 @@
 <h1 align="center">
   <p align="center">AluraBooks</p>
   <a href="https://alura-books-opal.vercel.app"><img src="https://i.imgur.com/toybNvX.jpg" alt="mobile" width=800/></a>
-  > Status do Projeto: :heavy_check_mark: (07/22)
 </h1>
 > Status do Projeto: :heavy_check_mark: (07/22)
 
